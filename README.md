@@ -6,16 +6,6 @@ This repository hosts the public Privacy Policy page for the YKS Net Takip appli
 
 The page is published as a static website via GitHub Pages and is intended to be used as the official privacy policy URL for store listings and user reference.
 
-## Live URL
-
-After enabling GitHub Pages, your URL will follow this format:
-
-https://USERNAME.github.io/REPOSITORY_NAME/
-
-Example:
-
-https://yourusername.github.io/yks-tracker-policy/
-
 ## Project Structure
 
 - index.html: Privacy Policy page content
